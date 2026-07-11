@@ -37,12 +37,16 @@
 # name = "Sharim"
 # print(name.endswith("rim"))
 
-name = "Sohail"
-print
+# name = "Sohail"
+# print(name.endswith("ail"))
 
 # string.count
 # name = "Sharim sohail"
 # count = name.count("a")
+# print(count)
+
+# name = "Sohaili"
+# count = name.count("i")
 # print(count)
 
 # first character of string is capalized
