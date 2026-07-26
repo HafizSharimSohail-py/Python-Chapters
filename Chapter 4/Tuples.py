@@ -1,0 +1,6 @@
+Tuples = ("Sharim","Ali",45,98,55,45.2,True,False)
+print(Tuples)
+count = Tuples.count("Sharim")
+print(count)
+index = Tuples.index(55)
+print(index)
